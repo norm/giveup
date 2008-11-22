@@ -1,0 +1,1 @@
+HTML and CSS for the site http://giveupwritingwebpages.com/
